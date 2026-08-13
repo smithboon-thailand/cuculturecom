@@ -1,2 +1,31 @@
-# cuculturecom
-หลักสูตรการสื่อสารเชิงวัฒนธรรมเพื่อการท่องเที่ยว - Chula Culture Com website (new modern version with Chula pink theme)
+# CU Culture Com — หลักสูตรการสื่อสารเชิงวัฒนธรรมเพื่อการท่องเที่ยว
+
+เว็บไซต์ใหม่สำหรับหลักสูตรอบรมประวัติศาสตร์ศิลปะและมรดกวัฒนธรรมไทย
+โดย ศ.เกียรติคุณ ดร.หม่อมราชวงศ์สุริยวุฒิ สุขสวัสดิ์
+หัวหน้าโครงการ: รศ.ดร.สมิทธิ์ บุญชุติมา
+
+**คณะนิเทศศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย**
+
+## คุณสมบัติ
+- ธีมสีชมพูจุฬาฯ (#DE5C8E) อย่างเป็นทางการ
+- วิดีโอพื้นหลัง Hero cinematic
+- ดีไซน์ Dark Luxury + Pink
+- Responsive + Modern
+
+## วิธี Deploy บน Vercel
+1. ไปที่ [vercel.com](https://vercel.com) แล้ว Login ด้วย GitHub
+2. Import Project → เลือก repo `cuculturecom`
+3. Deploy (Framework Preset: Other)
+4. หลังจาก Deploy สำเร็จ จะได้ URL ชั่วคราว เช่น `cuculturecom.vercel.app`
+5. จากนั้นไปตั้งค่า Custom Domain เป็น `cuculturecom.com` และแก้ DNS
+
+## ไฟล์ที่ต้องมี (อัปโหลดเพิ่ม)
+เนื่องจากไฟล์ภาพและวิดีโอมีขนาดใหญ่ กรุณาอัปโหลดไฟล์เหล่านี้เข้า repo ด้วย:
+- `promo_hero.mp4`
+- ภาพทั้งหมด (.jpg / .png)
+- favicon และ logo files
+
+หรือดาวน์โหลดไฟล์ครบชุดจากผู้สร้างเว็บ แล้วอัปโหลดทั้งโฟลเดอร์
+
+## Contact
+คุณสุธี เวสารัชกิตติ  096-323-6999
